@@ -12,6 +12,8 @@ This is the official implementation  of "A Wavelet Guided Attention Module for S
 -Download the ham10000 dataset and store each class in a separate folder named "class_name".<br/>
 -Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
 
+Saved model: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=drive_link
+
 ## Results
 ### Heat maps
 ![heatmap](https://github.com/AyushRoy2001/A-WAVELET-GUIDED-ATTENTION-MODULE-FOR-SKIN-CANCER-CLASSIFICATION-WITH-GRADIENT-BASED-FEATURE-FUSION/assets/94052139/d3f0b688-597d-48be-a597-b09db1297f4f)
@@ -31,5 +33,3 @@ Citation-<br/>
 
 <br/>
 -Link to our paper-<br/>
-
-Saved model: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=drive_link
