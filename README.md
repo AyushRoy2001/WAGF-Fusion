@@ -1,5 +1,5 @@
 # A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion
-This is the official implementation  of "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" (ISBI, 2024)
+This is the official implementation  of "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" (ISBI 2024).
 
 ### Overall workflow:
 ![architecture](https://github.com/AyushRoy2001/A-WAVELET-GUIDED-ATTENTION-MODULE-FOR-SKIN-CANCER-CLASSIFICATION-WITH-GRADIENT-BASED-FEATURE-FUSION/assets/94052139/b03ae873-82d1-4fe0-abe8-1a3525e7d8ad)
@@ -29,7 +29,6 @@ Dmitrii Kaplun, Asya Lyanova<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-<br/>
+```
 
-<br/>
--Link to our paper-<br/>
+```
