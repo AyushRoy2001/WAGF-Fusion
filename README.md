@@ -7,19 +7,14 @@ This is the official implementation  of "A Wavelet Guided Attention Module for S
 ##  Symmetry-aware Feature Attention Module:
 #![attention](https://github.com/AyushRoy2001/A-WAVELET-GUIDED-ATTENTION-MODULE-FOR-SKIN-CANCER-CLASSIFICATION-WITH-GRADIENT-BASED-FEATURE-FUSION/assets/94052139/0de110f7-7747-4368-b0f7-9621ba543426)
 
-## How to use
--Fork the repository.<br/>
--Download the ham10000 dataset and store each class in a separate folder named "class_name".<br/>
--Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
-
-Saved model: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=drive_link
-
 ## Results
 ### Heat maps
 ![heatmap](https://github.com/AyushRoy2001/A-WAVELET-GUIDED-ATTENTION-MODULE-FOR-SKIN-CANCER-CLASSIFICATION-WITH-GRADIENT-BASED-FEATURE-FUSION/assets/94052139/d3f0b688-597d-48be-a597-b09db1297f4f)
 
 ### Confusion matrix and Subspace feature representation
 ![cm_and_F_rep](https://github.com/AyushRoy2001/A-WAVELET-GUIDED-ATTENTION-MODULE-FOR-SKIN-CANCER-CLASSIFICATION-WITH-GRADIENT-BASED-FEATURE-FUSION/assets/94052139/4138129c-1c92-4d56-82d9-7ef5b95cae83)
+
+Saved model: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=drive_link
 
 ## Authors :nerd_face:*
 Ayush Roy<br/>
