@@ -25,5 +25,12 @@ Dmitrii Kaplun, Asya Lyanova<br/>
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
 ```
-
+@inproceedings{roy2024wavelet,
+  title={A wavelet guided attention module for skin cancer classification with gradient-based feature fusion},
+  author={Roy, Ayush and Sarkar, Sujan and Ghosal, Sohom and Kaplun, Dmitrii and Lyanova, Asya and Sarkar, Ram},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--4},
+  year={2024},
+  organization={IEEE}
+}
 ```
